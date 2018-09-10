@@ -1,0 +1,77 @@
+{
+  "name": "nodebb-theme-persona",
+  "version": "4.1.86",
+  "nbbpm": {
+    "compatibility": "^0.8.2 || ^0.9.0 || ^1.0.0"
+  },
+  "description": "Persona theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-theme-persona.git"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+  },
+  "gitHead": "d8343c5df5878ad49352876f93d048650430b8a0",
+  "homepage": "https://github.com/psychobunny/nodebb-theme-persona#readme",
+  "_id": "nodebb-theme-persona@4.1.86",
+  "scripts": {},
+  "_shasum": "0dda3721e75a4196b85e9fc8c2a9fd768eab3b8c",
+  "_from": "nodebb-theme-persona@4.1.86",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.4.0",
+  "_npmUser": {
+    "name": "julianlam",
+    "email": "julian@designcreateplay.com"
+  },
+  "dist": {
+    "shasum": "0dda3721e75a4196b85e9fc8c2a9fd768eab3b8c",
+    "tarball": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.1.86.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    },
+    {
+      "name": "baris",
+      "email": "barisusakli@gmail.com"
+    },
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nodebb-theme-persona-4.1.86.tgz_1478803546394_0.30969631718471646"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.1.86.tgz"
+}
